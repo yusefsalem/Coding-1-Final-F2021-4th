@@ -1,0 +1,22 @@
+a {
+    color: blue;
+}
+
+h5 {
+    color: green;
+}
+
+.card-body {
+    color: red;
+}
+
+.card-img-top {
+    background-color: blue;
+} 
+
+.card-img-top2 {
+    background-color: green;
+} 
+.card-img-top3 {
+    background-color: grey;
+} 
